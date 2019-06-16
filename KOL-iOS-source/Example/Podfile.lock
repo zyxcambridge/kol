@@ -1,0 +1,16 @@
+PODS:
+  - ProjectOxfordFace (1.4.1)
+
+DEPENDENCIES:
+  - ProjectOxfordFace (from `../`)
+
+EXTERNAL SOURCES:
+  ProjectOxfordFace:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ProjectOxfordFace: fa7d7adbc9a11203be61a6a80511101b5dbf6ce4
+
+PODFILE CHECKSUM: a5d2c084667aa893cf7f8e0a5e76252611a40a74
+
+COCOAPODS: 1.6.1
